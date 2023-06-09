@@ -1,0 +1,441 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Canal9Litoral.ar" tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png" group-title="Undefined",Canal 9 Litoral (720p)
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal6EntreRios.ar" tvg-logo="https://lh3.googleusercontent.com/-WaPcoRIsunA/X9djlAdcgmI/AAAAAAAA8OA/zTZ4rmvloRkADrSVnucZuvR1pZZKhA9sACK8BGAsYHg/s0/2020-12-14.png" group-title="Undefined",Canal 6 Entre Ríos (1080p)
+https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General" user-agent="iPhone",América TV (720p)
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="Undefined",El Trece (1080p)
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="Undefined",Telefe (720p)
+https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="Undefined",El Nueve (1080p)
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+
+#EXTINF:-1 tvg-id="TelefeInternacional.ar" tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Undefined",Telefe Internacional (720p) [Not 24/7]
+https://siloh.pluto.tv/lilo/production/TelefePluto/master.m3u8
+
+#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://i.imgur.com/Gj1kqH5.png" group-title="General",La Nación+ (720p)
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8#EXTVLCOPT:http-user-agent=iPhone
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="General",TV Pública (TVP) (1080p) [Not 24/7]
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+
+#EXTINF:-1 tvg-id="ElDoce.ar" tvg-logo="https://i.imgur.com/HfyKPpD.png" group-title="Undefined",El Doce (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8#EXTINF:-1,Discovery en Españolhttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=14
+
+#EXTINF:-1,Discovery Home & Health Latinoamericahttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=15
+
+#EXTINF:-1 channelId=\"164\" , NAT GEO WILDhttp://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"50\" , ANIMAL PLANEThttp://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"1455\" , HISTORY CHANELhttp://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"56\" , NAT GEOhttp://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"57\" , DISCOVERY CHANNELhttp://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"2636\" , True tvhttp://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"2620\" , H&H DISCOVERYhttp://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"59\" , ID INVESTIGATION DISCOVERYhttp://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"2841\" , DISCOVERY CIVILIZATIONhttp://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"2840\" , DISCOVERY TURBOhttp://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?=%2F.ts#EXTINF:-1 channelId=\"58\" , SCI DISCOVERYhttp://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?=%2F.ts#EXTINF:-1 channelId=\"2558\" , Discovery Theater HDhttp://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?=%2F.ts#EXTINF:-1 channelId=\"1188\" , E!http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?=%2F.ts#EXTINF:-1 channelId=\"2505\" , DISCOVERY KIDShttp://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?=%2F.ts#EXTINF:-1 channelId=\"1147\" , CBEEBIEShttp://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?=%2F.ts#EXTINF:-1 channelId=\"1197\" , DISNEY JUNIORhttp://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?=%2F.ts#EXTINF:-1 channelId=\"322\" , NICK JRhttp://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"19\" , DISNEY CHANNELhttp://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"2711\" , NICKS TOONShttp://200.76.77.237/LIVE/H01/CANAL314/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"2707\" , NICK HDhttp://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1,Warner Channel Latinoamericahttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=41
+
+#EXTINF:-1,Disney Channel Nortehttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=30
+
+#EXTINF:-1,Disney XD Nortehttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=31
+
+#EXTINF:-1,Disney Junior Nortehttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=32
+
+#EXTINF:-1,Nickelodeon Latinoamericahttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=33
+
+#EXTINF:-1,Nick Jr Latinoamericahttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=34
+
+#EXTINF:-1,Discovery Kids America Latinahttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=35
+
+#EXTINF:-1,Cartoon Network Latinoamericahttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=36
+
+#EXTINF:-1,Boomerang Latinoamericahttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=37
+
+#EXTINF:-1,Tooncasthttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=38
+
+#EXTINF:-1,Baby TV Latinoamericahttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=39
+
+#EXTINF:-1,National Geographic Latinoamericahttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=17
+
+#EXTINF:-1,Animal Planet Latinoamericahttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=18
+
+#EXTINF:-1,HBO Latinoamericahttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=61
+
+#EXTINF:-1,HBO Plus Estehttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=62
+
+#EXTINF:-1,HBO Family Latinoamericahttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=63
+
+#EXTINF:-1,HBO Signature Latinoamericahttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=64
+
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://i.imgur.com/RZZshKK.png" group-title="Auto",El Garage TV (480p) [Not 24/7]
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="Animation",Anime Zone TV
+https://azxtv.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Antena91.ar" tvg-logo="https://i.imgur.com/HAJxHcV.png" group-title="Undefined",Antena 91 (720p)
+https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
+
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="Undefined",Argentinísima Satelital (540p)
+https://stream1.sersat.com/hls/argentinisima.m3u8
+
+#EXTINF:-1 tvg-id="AstroNet.ar" tvg-logo="https://i.imgur.com/SNbLfau.png" group-title="Science",AstroNet (360p)
+https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AventurasTV.ar" tvg-logo="https://i.imgur.com/qt6g1wi.png" group-title="Entertainment",Aventuras TV (360p)
+https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BoomerangLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang Latinoamérica [Geo-blocked]
+http://45.5.8.78:8000/play/a00i
+
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="News",C5N (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+
+#EXTINF:-1 tvg-id="Cadena103TV.ar" tvg-logo="https://i.imgur.com/vBsry35.png" group-title="Undefined",Cadena 103
+https://59d52c5a5ce5e.streamlock.net:4443/cadena103/cadena103/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal3Rosario.ar" tvg-logo="https://i.imgur.com/PjsKbrz.png" group-title="Undefined",Canal 3 Rosario (704p) [Geo-blocked]
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal5SantaFe.ar" tvg-logo="https://i.imgur.com/WX0esjQ.png" group-title="Undefined",Canal 5 Santa Fe (240p)
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://i.imgur.com/87WCHtd.png" group-title="Undefined",Canal 10 Córdoba (1080p)
+https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=iPhone
+https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=iPhone
+https://g4.vxral-slo.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/Playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=iPhone
+https://g2.vxral-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/Playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalLuz.ar" tvg-logo="https://i.imgur.com/GnY6dNT.png" group-title="Undefined" user-agent="Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36",canalLUZ (1080p) [Not 24/7]
+
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://i.imgur.com/Iozv4tT.png" group-title="Movies",CINE.AR (720p) [Not 24/7]
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Undefined",Ciudad Magazine [Geo-blocked]
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="News",CNN en Español
+http://209.91.213.10:8088/play/a014
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="Undefined" user-agent="iPhone",Crónica TV (720p)
+
+#EXTVLCOPT:http-user-agent=iPhone
+https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
+
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Sports",DeporTV (1080p)
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports",DirecTV Sports (480p) [Geo-blocked]
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="Culture",Encuentro (1080p)
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+
+#EXTINF:-1 tvg-id="EnerGeekAnimate.cl" tvg-logo="https://i.imgur.com/yq4K3KN.png" group-title="Animation;Entertainment",EnerGeek Animate (720p) [Not 24/7]
+https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="Animation",EnerGeek Retro (720p) [Not 24/7]
+https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
+
+#EXTINF:-1 tvg-id="Enlace.cr" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Religious",Enlace (720p)
+https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HumorMax.ve" tvg-logo="https://i.imgur.com/bFUZwJ0.png" group-title="Comedy",Humor Max (720p)
+http://vcpar.myplaytv.com/humormax/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IngenioFM.ar" tvg-logo="https://yt3.ggpht.com/8Mqa9VCxk9ijWdeq2Y7hfMn6953MyVo8IQ8qCVpbxRMTYMfC8REhe75PcDlF2ntsyldJFvJT=s400-c-k-c0x00ffffff-no-rj" group-title="Undefined",Ingenio FM
+https://panel.dattalive.com/8064/8064/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LatinoKidsTV.uy" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Entertainment",LatinoKids (360p) [Not 24/7]
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Nuevo Tiempo (720p) [Not 24/7]
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="Kids",Pakapaka (720p)
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PancTV.ar" tvg-logo="https://i.imgur.com/u1dnEVv.png" group-title="General",Panc TV (720p)
+https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Education",Platzi TV (1080p)
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+
+#EXTINF:-1 tvg-id="SantaFeCanal.ar" tvg-logo="https://i.imgur.com/C1mY5X4.png" group-title="Undefined",Santa Fe Canal (720p)
+https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+
+#EXTINF:-1 tvg-id="SuperClassicsTV.ar" tvg-logo="https://i.imgur.com/WlhCN7e.png" group-title="Music",Super Classics TV (360p)
+https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperKaosTV.ar" tvg-logo="https://i.imgur.com/uOkAHVq.png" group-title="Animation;Kids",Super Kaos TV (360p)
+https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TechScience365.ar" tvg-logo="https://i.imgur.com/UtqOpaY.png" group-title="Science",TechScience 365 (360p)
+https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telecinco.ar" tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="Undefined",TeleCinco Trelew (240p)
+https://videohd.live:19360/8016/8016.m3u8
+
+#EXTINF:-1 tvg-id="TelediarioTV.ar" tvg-logo="https://i.imgur.com/Z4HJc1c.png" group-title="Undefined",Telediario TV
+https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
+
+#EXTINF:-1 tvg-id="Telediez.ar" tvg-logo="https://lh3.googleusercontent.com/--lIu0htmtg8/X1TLtJrNbfI/AAAAAAAA5Uc/EKwp0eeY99Y5o7Nwz9reunAnLFwQcVBIgCK8BGAsYHg/s0/2020-09-06.jpg" group-title="Undefined",Telediez
+https://videohd.live:19360/8020/8020.m3u8
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="News",TN Todo Noticias (1080p)
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
+#EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-logo="https://i.imgur.com/VRl8nPZ.png" group-title="Music",Top Latino TV
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVManaArgentina.ar" tvg-logo="https://i.imgur.com/Liu0UnB.png" group-title="Religious",TV Maná Argentina (576p) [Not 24/7]
+http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Vorterix.ar" tvg-logo="https://i.imgur.com/RWL10TG.png" group-title="Entertainment",Vorterix (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
+
+#EXTINF:-1 tvg-id="XtremaAnimal.ar" tvg-logo="https://i.imgur.com/HQxKLlK.png" group-title="Documentary;Science",Xtrema Animal (360p)
+https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaAnime.ar" tvg-logo="https://i.imgur.com/yor5owS.png" group-title="Animation",Xtrema Anime (360p)
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="Animation;Kids",Xtrema Cartoons (360p)
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Movies",Xtrema Cine Acción (268p)
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaComedy.ar" tvg-logo="https://i.imgur.com/aNUufoq.png" group-title="Comedy;Movies",Xtrema Cine Comedy (344p)
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaDrama.ar" tvg-logo="https://i.imgur.com/lkQBPmN.png" group-title="Movies",Xtrema Cine Drama (360p)
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaFamily.ar" tvg-logo="https://i.imgur.com/PohVKAP.png" group-title="Family;Movies",Xtrema Cine Family (274p)
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaLatina.ar" tvg-logo="https://i.imgur.com/swgrOiH.png" group-title="Movies",Xtrema Cine Latino (360p)
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaRetroCartoons.ar" tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title="Animation;Classic;Kids",Xtrema Retro Cartoons (360p)
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaRetroSeries.ar" tvg-logo="https://i.imgur.com/ejBa7n3.png" group-title="Classic;Series",Xtrema Retro Series (360p)
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaSeries.ar" tvg-logo="https://i.imgur.com/J7ZZIQN.png" group-title="Movies",Xtrema Series (360p)
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+
+#EXTINF:-1 channelId=\"1954\" , Canal de las Estrellashttp://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+
+#EXTINF:-1 channelId=\"1957\" , Gala TVhttp://201.161.59.3/galavision.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 channelId=\"1955\" , PM Canal 5http://201.161.59.3/canal5.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 channelId=\"1951\" , Azteca 7http://201.161.59.3/azteca7.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 channelId=\"2489\" , Canal Oncehttp://201.161.59.3/oncetv.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 channelId=\"2660\" , Azteca Trece#EXTSIZE:Mediumhttp://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8
+
+#EXTINF:-1 channelId=\"-1\" tvg-logo=\"http://1.bp.blogspot.com/-JqXJ-3-6PyA/Ua9z6-whVSI/AAAAAAAAAW4/ucM7t3Nwy5I/s1600/mariavision%5B1%5D.png\" , MariaVisionhttp://74.63.97.188:1935/mariavision1/videomariavision1/playlist.m3u8?
+
+#EXTINF:-1 channelId=\"1491\" , EWTNhttp://ewtn.mpl.miisolutions.net:193...playlinst.m3u8
+
+#EXTINF:-1 channelId=\"40\" , CARTOON NETWORK
+Lea gratis durante 30 días.
+Obtenga 30 días de suscripción a Scribd gratis cuando invite a sus amigos.
+
+Invite a sus amigosInvite a sus amigos a unirse a Scribd
+ 
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"1198\" , DISNEY XDhttp://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"321\" , BOOMERANGhttp://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"2688\" , TIINhttp://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"2639\" , TOON CASThttp://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"1961\" , DISTRITO COMEDIAhttp://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"1953\" , DE PELICULA HDhttp://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"1962\" , GOLDEN HDhttp://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"2491\" , FOX1http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"177\" , FOXhttp://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"2495\" , FOX ACTION HDhttp://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"2493\" , FOX MOVIES HDhttp://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"2494\" , FOX CINEMAhttp://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"177\" , FOX FAMILYhttp://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"177\" , FOX CLASSIChttp://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"178\" , FOX LIFEhttp://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"1304\" , FX HDhttp://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"64\" , CINECANAL+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"64\" , CINECANALhttp://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"2900\" , TNT HDhttp://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"1052\" , TNT LAhttp://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"2686\" , TNT SERIEShttp://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"1962\" , GOLDEN HDhttp://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"2662\" , FILM ZONE HDhttp://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"2501\" , AMChttp://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"1407\" , SPACEhttp://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"1326\" , CINEMAXhttp://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"2502\" , GOLDEN EDGEhttp://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"2625\" , STUDIO UNIVERSALhttp://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"895\" , TCMhttp://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"237\" , MTV Live
+ 
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"1966\" , TELEHIThttp://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"151\" , VH1http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"1973\" , MTVhttp://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"1959\" , Bandamaxhttp://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"1263\" , ESPN HDhttp://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"2540\" , ESPNhttp://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"2540\" , ESPN 2http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"1328\" , FOX SPORTShttp://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"1328\" , FOX 2 SPORTShttp://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 channelId=\"82\" , Eurosporthttp://fr978.edem.tv/iptv/AZAZZ72ELRUM5G/527/index.m3u8
+
+#EXTINF:-1 channelId=\"83\" , Eurosport 2http://publish.thewebstream.co:1935/leved/_definst_/privateCom/playlist.m3u8
+
+#EXTINF:-1,Canal De Las Estrellashttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=10
+
+#EXTINF:-1,Univisionhttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=11
+
+#EXTINF:-1,Telemundohttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=12
+
+#EXTINF:-1,Tlnovelas Americahttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=13
+
+#EXTINF:-1,H2 Latinoamericahttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=16
+
+#EXTINF:-1,ESPN Latinoamericahttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=19
+
+#EXTINF:-1,ESPN 2 Latinoamericahttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=20
+
+#EXTINF:-1,ESPN 3 Latinoamericahttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=21
+
+#EXTINF:-1,Fox Sports Latinoamericahttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=22
+
+#EXTINF:-1,Fox Sports 2 Latinoamericahttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=23
+
+#EXTINF:-1,Fox Sports 3 Latinoamericahttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=24
+
+#EXTINF:-1,UFC Network Latinoamerica
+ 
+http://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=25
+
+#EXTINF:-1,BeinSports en Españolhttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=26
+
+#EXTINF:-1,Planeta Futbolhttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=27
+
+#EXTINF:-1,TDN Mexicohttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=28
+
+#EXTINF:-1,Univision TDNhttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=29
+
+#EXTINF:-1,Unicablehttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=40
+
+#EXTINF:-1,FX Latinohttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=42
+
+#EXTINF:-1,A&E Latinoamericahttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=43
+
+#EXTINF:-1,TLC Latinoamericahttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=44
+
+#EXTINF:-1,MundoFox
+ 
+http://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=45
+
+#EXTINF:-1,TNT Series Latinoamericahttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=46
+
+#EXTINF:-1,Distrito Comediahttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=47
+
+#EXTINF:-1,Azteca Noticiashttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=48
+
+#EXTINF:-1,HTVhttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=49
+
+#EXTINF:-1,Bandamaxhttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=50
+
+#EXTINF:-1,Goldenhttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=51
+
+#EXTINF:-1,Golden Edgehttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=52
+
+#EXTINF:-1,TNT America Latinahttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=53
+
+#EXTINF:-1,CineCanalhttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=54
+
+#EXTINF:-1,Cinemax Latinoamericahttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=55
+
+#EXTINF:-1,SPACEhttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=56
+
+#EXTINF:-1,AMChttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=57
+
+#EXTINF:-1,Studio Universalhttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=58
+
+#EXTINF:-1,Film Zonehttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=59
+
+#EXTINF:-1,Fox 1 Estehttp://public.tuiptv.biz/public/PlayList.php?id=8D72781E-9374-4AAB-B442-7ED4757F59EE&channel=60
